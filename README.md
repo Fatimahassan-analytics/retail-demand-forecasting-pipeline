@@ -2,7 +2,8 @@
 
 Time-series demand forecasting for retail stores using seasonal naive, SARIMA, and LightGBM with lag features.
 
-**Live demo:** _add your Streamlit Cloud URL here after deploying_
+**Live demo:** _https://retail-demand-forecasting-pipeline-bchxnxp4cwgwzmmnfqj5z6.streamlit.app/_
+
 **Author:** Fatima Hassan — [github.com/Fatimahassan-analytics](https://github.com/Fatimahassan-analytics)
 
 ---
